@@ -1,0 +1,6 @@
+---
+title: Web Services for the Go Developer
+author: Nic Raboy
+lang: en-US
+cover-image: cover.jpg
+---
